@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Project Akhir</string>
+
+    <string name="nama_anggota">Nama Anggota</string>
+    <string name="description">Deskripsi</string>
+    <string name="username">Muhammad Nursyahputra Juliyanto</string>
+    <string name="email">2011500105@mahasiswa.atmaluhur.ac.id</string>
+
+    <string-array name="data_name">
+        <item>Deankt</item>
+        <item>Nastasia Adeline</item>
+        <item>Alyssa Ananta</item>
+        <item>Anindhita</item>
+        <item>Hamdan</item>
+        <item>Rexxy</item>
+        <item>Bion</item>
+        <item>Bobacot</item>
+        <item>Ade Setiawan</item>
+        <item>Mada Rahadian</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Aldean Tegar Gemilang yang dikenal sebagai DEANKT atau Luch (lahir 6 Agustus 1991), merupakan mantan wakil presiden di EVOS Esports yang kini menjadi seorang kreator konten dan penyiar langsung di platform YouTube yang berasal dari Indonesia. [4] Dia dikenal karena melakukan siaran langsung pada permainan video di YouTube. Dia juga menjalankan beberapa kanal YouTube lainnya, yaitu DEANKT sebagai kanal utama dan Aldean Tegar sebagai kanal kedua.</item>
+        <item>Nastasia Adeline adalah nama lengkapnya. Dara ini lahir di Jakarta pada tanggal 12 April 1998. Ibunya bernama Susan Djuniwar, sementara ayahnya tidak diketahui. Nastasia Adeline diketahui memiliki seorang kakak laki-laki, seorang adik laki-laki bernama Andrew Yeputra, dan seorang adik perempuan bernama Christabel Charissa, yang juga merupakan selebgram. </item>
+        <item>Nama: Alyssa Ananta Asal kota: medan Tanggal lahir: 17 Desember 2002 Usia: 22 tahun Nama panggilan: Alyssa Zodiak: capricorn IG: @alyssaanantaa (569 ribu follower) TikTok: @dxsh12 (2,5 juta follower) YouTube: @alyssaananta1596
+                Pada 16 September 2023, Alyssa secara resmi diperkenalkan oleh tim esports Evos sebagai salah satu brand ambassador. </item>
+        <item>Anindhita Rahma Cahyadi merupakan publik figur yang dikenal sejak menjadi bagian dari generasi ketiga JKT48.
+                Setelah kelulusannya di tahun 2022 lalu, ia mulai aktif sebagai influencer dan bintang iklan sekaligus membagikan kesehariannya lewat sosial media.
+                Bergabungnya Anin sebagai BA Bigetron ini tentunya disambut gembira oleh banyak orang. Mengingat ia sudah tidak asing lagi dengan dunia esports dan di tahun 2018 lalu, dirinya menjadi salah satu pencetus terbentuknya Valkyrie48.</item>
+        <item>hamdan adalah seorang streamer yang berawal dari seorang evosfams. </item>
+        <item>Lahir di Bandung pada 5 Mei 2000 dengan nama asli Fahmiadamalamsyah, Rexxy memulai langkahnya di dunia esports dengan jalan yang tak biasa. Berawal dari ketertarikan bermain game di warnet, ia menghabiskan sebagian besar waktunya di depan monitor. Bahkan, kebiasaannya ini sempat membuat nilai sekolahnya anjlok hingga ia hampir tinggal kelas, memaksanya untuk pindah sekolah.</item>
+        <item>EVOS Bion yang bernama lengkap Abi Faisal Firmansyah merupakan salah satu sosok dalam dunia FF yang ditakuti oleh lawannya.
+                Hal ini bukan tanpa sebab mengingat pria kelahiran Depok ini piawai dalam membantai lawan dengan menggunakan senjata grant sehingga dijuluki sebagai raja granat.
+                Sosok sang raja granat berzodiak Gemini ini memulai karir secara profesional sebagai gamer pada tahun 2019. Ia mengawali karir profesionalnya dengan bergabung bersama Dranix Esports.</item>
+        <item>Andre Hendarto, yang akrab dipanggil Hasenkyo dan dikenal dengan nama panggung Bobacot, adalah seorang konten kreator dan pegawai swasta kelahiran Pekanbaru pada tahun 1996. Di usia 24 tahun, Andre telah menunjukkan dedikasinya dalam dunia kreatif dengan menghasilkan konten yang menghibur dan menarik, terutama di platform TikTok dan Instagram.</item>
+        <item> Ade Setiawan Pamungkas Nickname: Hyde O\'Brien Kebangsaan: Indonesia Tanggal Lahir: 15 Mei 1996 Status: Tidak Aktif Peran: Analis dan Pelatih</item>
+        <item>Mada rahadian adalah seorang streamer yang dulunya seorang ex manager evos esport. </item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/deankt</item>
+        <item>@drawable/nastasia_adeline</item>
+        <item>@drawable/alyss_ananta</item>
+        <item>@drawable/anindhita</item>
+        <item>@drawable/hamdan</item>
+        <item>@drawable/rexxy</item>
+        <item>@drawable/bion</item>
+        <item>@drawable/bobacot</item>
+        <item>@drawable/ade_setiawan</item>
+        <item>@drawable/mada</item>
+    </integer-array>
+</resources>
